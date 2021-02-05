@@ -1,2 +1,2 @@
-# scheduler-pool
-Run the scheduler using a thread pool.
+# xutils
+스레드 사용 시 자주 사용하는 코드를 유틸 모음. 기본 자바 패키지만을 이용하여 사용할 수 있도록 함.
